@@ -1,0 +1,12 @@
+hash -d cac=/home/adi/.cache 
+hash -d cf=/home/adi/.config 
+hash -d D=/home/adi/Downloads 
+hash -d d=/home/adi/Documents 
+hash -d dt=/home/adi/.local/share 
+hash -d h=/home/adi 
+hash -d m=/home/adi/Music 
+hash -d mn=/mnt 
+hash -d pp=/home/adi/Pictures 
+hash -d sc=/home/adi/.local/bin 
+hash -d src=/home/adi/.local/src 
+hash -d vv=/home/adi/Videos 
