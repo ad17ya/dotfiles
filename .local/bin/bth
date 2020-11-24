@@ -1,0 +1,2 @@
+#!/bin/sh
+echo -e "power on\npower off\n connect 98:09:CF:C1:D1:48" | dmenu -i | bluetoothctl
