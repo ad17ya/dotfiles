@@ -1,7 +1,8 @@
 # Luke's config for the Zoomer Shell
-# pfetch
-# neofetch
+#pfetch
+#neofetch
 colorscript random
+#unix
 
 # Enable colors and change prompt:
 autoload -U colors && colors	# Load colors

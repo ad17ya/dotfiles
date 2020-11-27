@@ -21,16 +21,6 @@ https://www.listenmoneymatters.com/feed/atom/
 http://feeds.feedburner.com/MrMoneyMustache
 https://sneak.berlin/feed.xml
 
-
-" "
-"---PODS---"
-https://notrelated.libsyn.com/rss
-https://feeds.megaphone.fm/the-bill-simmons-podcast
-https://feeds.megaphone.fm/the-book-of-basketball-podcast
-https://feeds.megaphone.fm/ESP4033296397
-https://latenightlinux.com/feed/mp3
-https://feeds.megaphone.fm/the-ryen-russillo-podcast
-
 " "
 "---VIDEOS---"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "~Luke Smith (YouTube)"
@@ -42,3 +32,12 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCQHLxxBFrbfdrk1jF0moTpw " L
 https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg " Wolfgang's Channel"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC58_wzhvJta3hDSPvRLDAqg " Anuj Bhaiya"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA " Brodie Robertson"
+
+#" "
+#"---PODS---"
+#https://notrelated.libsyn.com/rss
+#https://feeds.megaphone.fm/the-bill-simmons-podcast
+#https://feeds.megaphone.fm/the-book-of-basketball-podcast
+#https://feeds.megaphone.fm/ESP4033296397
+#https://latenightlinux.com/feed/mp3
+#https://feeds.megaphone.fm/the-ryen-russillo-podcast

@@ -17,6 +17,7 @@ alias \
 # Colorize commands when possible.
 alias \
 	ls="ls -hN --color=auto --group-directories-first" \
+	ll="ls -lahN --color=auto --group-directories-first" \
 	grep="grep --color=auto" \
 	diff="diff --color=auto" \
 	ccat="highlight --out-format=ansi"
@@ -32,7 +33,8 @@ alias \
 
 #Freq used programs
 alias \
-	nf="neofetch"
+	nf="neofetch" \
+    dsa="sc-im dox/placements/Kadak\ Maal.xlsx"
 
 # These common commands are just too long! Abbreviate them.
 alias \
